@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a606ac0d6ebd7b46b674b0bb70d4a1d, type: 3}
+  m_Name: Basic Dungeon
+  m_EditorClassIdentifier: 
+  dungeonLength: 15
+  roomStrategy: {fileID: 11400000, guid: 5cd6e4515b41d5749a7566d154d715c5, type: 2}
+  roomsStrategy: {fileID: 11400000, guid: b0f5d970ac0e60d489307c84001515fb, type: 2}
+  bossRoomStrategy: {fileID: 11400000, guid: 478c08d764870dd4992867941402653f, type: 2}
